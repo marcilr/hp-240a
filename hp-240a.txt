@@ -25,6 +25,61 @@ Very nice.
 Now just need to get a dual VESA display mount.
 
 
+Specifications
+==============
+Color:                Black
+Brand:                HP
+Hardware Interface:   VGA, USB Type C, HDMI, Thunderbolt
+Resolution:           FHD 1080p
+Response Time:        5 Milliseconds
+
+About this item
+o Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) 
+  with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel 
+  (2 million pixels, 16.7 million colors)
+
+o Response Time — 5ms with overdrive for a smooth picture that looks 
+  crisp and fluid without motion blur
+
+o Built-In Speakers — Integrated audio speakers provide great sound for 
+  your content (2 watts per channel)
+
+o Thin Bezel-Less Frame — A thin and virtually frameless ultra-widescreen 
+  monitor provides a seamless multi-monitor set-up with 3-sided narrow 
+  bezels
+
+o 4-Way Ergonomic Viewing — 90° rotation for horizontal (landscape) 
+  and vertical (portrait) viewing modes, adjustable height and 
+  tilt (-5° to 30°), and 178° positional viewing for the best quality 
+  at any angle
+
+o Vesa Mounting — Mount the display on walls or brackets with a 
+  100m VESA mounting pattern (mounting bracket not included)
+
+o Connectivity — VGA and HDMI with HDCP support for laptop or 
+  multi-monitor setups. Includes: AC power cord, VGA cable, and CD
+
+o Compatibility — Plug and play for all OS such as Windows & Mac OS 
+  for laptop connectivity (NOTE: USB-C/Thunderbolt 3-to-HDMI adapters 
+  required for 2016 MacBook Pros or later)
+
+o Responsibly made — Save your wallet with an Energy star certified 
+  monitor that meets strict energy-efficiency guidelines and helps 
+  reduce your carbon footprint
+
+o Warranty — One-year limited warranty with 24-hour, 7 days a week 
+  web support when shipped from and sold by Amazon (user manuals 
+  and drivers included)
+--HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor 
+  with Built-in Speakers and VESA Mounting, 
+  Rotating Portrait & Landscape, Tilt, 
+  and HDMI & VGA Ports (1KL30AA) - Black
+  by HP
+  Fri August 7, 2020
+  https://www.amazon.com/gp/product/B072M34RQC/ref=ppx_od_dt_b_asin_image_s00?ie=UTF8&psc=1
+
+
+
 Ordered on July 9, 2020
 =======================
 Order 2x HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor
