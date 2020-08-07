@@ -32,6 +32,8 @@ Brand:                HP
 Hardware Interface:   VGA, USB Type C, HDMI, Thunderbolt
 Resolution:           FHD 1080p
 Response Time:        5 Milliseconds
+Dimensions:           21.22" (W) x 12.72" (H) (without stand)
+                      Need to verify this with measuring tape.
 
 About this item
 o Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) 
