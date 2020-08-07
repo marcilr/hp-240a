@@ -1,0 +1,16 @@
+links.txt
+Created Fri 07 Aug 2020 09:56:48 AM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Order related links
+
+
+Links
+=====
+Order Details
+  Ordered on July 9, 2020 
+  Order# 113-6052533-3708252
+  Order for 2x HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor
+  price: $109.99 + $109.99 = $219.98
+  https://www.amazon.com/gp/css/summary/edit.html/ref=dp_iou_view_this_order?ie=UTF8&orderID=113-6052533-3708252
